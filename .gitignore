@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.DS_Store
+Thumbs.db
+*.pt
+*.pth
+*.onnx
+*.bin
+checkpoint*/
